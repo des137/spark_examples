@@ -1,4 +1,4 @@
-# Simple Examples of PySpark scripts
+# Examples of PySpark scripts
 
 (This repository contains a few pyspark scripts that I use for reference at work. It contains both the basic data wrangling and machine learning scripts.)
 
